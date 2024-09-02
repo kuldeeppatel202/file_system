@@ -1,0 +1,10 @@
+position.txt 12 Specifiesthe
+Return.txt 7 namespa
+insert.txt 20 includingtheelementp 
+Program.txt 10 elementswh
+pointed.txt 6 insert
+deque.txt 18 eateFileelementswh
+Output.txt 23 includingtheelementpyui
+Auxiliary.txt 10 gnamespace 
+iterator.txt 17 claredinnamespab
+Parameters.txt 30 Extendsdequebyinsertinganewele

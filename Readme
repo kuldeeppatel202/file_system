@@ -1,0 +1,5 @@
+run the following commands
+1 make
+2 ./FileSystem<input.txt
+
+Each line of input file contain space separeted filename , file size , data
